@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body {
+  background: #d4d4d4 url("../images/background.png");
+  font-family: "Helvetica Neue", sans-serif;
+  position: relative;
+  padding: 20px;
+  font-weight: 200;
+}
+
+h1, h2, h3, h4 { font-weight: 200; }
+h4 { color: red; }
+
+.bacon {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  border-radius: 20px;
+}
